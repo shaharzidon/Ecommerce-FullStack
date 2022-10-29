@@ -4,6 +4,8 @@
 
 This is the course project for my MERN eCommerce course
 
+![screenshot](https://res.cloudinary.com/shaharcloud/image/upload/v1667066715/MyProjects/screenshot_wyjifd.png)
+
 ## Features
 
 - Full featured shopping cart
